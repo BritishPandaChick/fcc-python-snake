@@ -12,3 +12,4 @@ Snake game from freecodecamp Learn Python by Building Five Games Course
 * Tech with Tim
 * freecodecamp
 * Python
+* [Learn Python by Building 5 Games course](https://youtu.be/XGf2GcyHPhc?si=9G6yPv3dSeEb2Pww)
